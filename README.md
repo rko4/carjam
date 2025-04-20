@@ -15,6 +15,7 @@
 - **Virtual line counting**, including support for diagonal lines
 - **Visual annotations** on frames (boxes, labels, counters)
 - **Google Drive integration** for loading videos and models
+<img src="./capture_annotated.jpg" alt="CarJam Demo" width="400"/>
 
 ---
 
